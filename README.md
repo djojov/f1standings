@@ -1,8 +1,8 @@
 # 🏎️ Forumla 1 Standings App
 
-This project was created in Kotlin as an assignment for my Mobile Development class. It uses real Formula 1 data and you can see the current positions of drivers as well as constructor positions. Besides that, you can check out the Races tab where you can find basic information about each race track on the calendar.
+This project was created in Kotlin as an assignment for my Mobile Development class (start of 2023). It uses real Formula 1 data and you can see the current positions of drivers as well as constructor positions. Besides that, you can check out the Races tab where you can find basic information about each race track on the calendar.
 
-## 🛠️ Technologies
+## 🛠️ Technologies and tools
 
 - `Kotlin`
 - `Android Studio`
